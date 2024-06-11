@@ -195,7 +195,7 @@ numbers.forEach(function(number) {
 
 </details>
 
-[Go to top](DSA-Learning-Roadmap-Using-JavaScript)
+[Go to top](#DSA-Learning-Roadmap-Using-JavaScript)
 
 ## 📌 Basic Operations on Arrays
 

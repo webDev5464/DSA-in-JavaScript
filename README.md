@@ -3,6 +3,8 @@
 - [Basic of arrays](#Basic-of-arrays)
   - [Introduction to Arrays](#Introduction-to-Arrays)
   - [Accessing Array Elements](#Accessing-Array-Elements)
+  - [Array Operations](#Array-Operations)
+  - [Iterating Over Arrays](#Iterating-Over-Arrays)
 
 ##  Basic of arrays
 
@@ -50,7 +52,7 @@ console.log(fruits[2]); // Output: Mango
   console.log(fruits); // Output: ["Apple", "Banana"]
 ```
 
-### 🔺 Iterating Over Arrays
+### Iterating Over Arrays
 
 Array ke elements pe iterate karne ke kai tarike hain.
 

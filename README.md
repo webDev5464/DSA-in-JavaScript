@@ -5,6 +5,11 @@
   - [Accessing Array Elements](#Accessing-Array-Elements)
   - [Array Operations](#Array-Operations)
   - [Iterating Over Arrays](#Iterating-Over-Arrays)
+- [Basic Operations on Arrays](#Basic-Operations-on-Arrays)
+  - [Searching in Arrays](#Searching-in-Arrays)
+  - [Sorting Arrays](#Sorting-Arrays)
+  - [Filtering Arrays](#Filtering-Arrays)
+  - [Mapping Arrays](#Mapping-Arrays)
 
 ##  Basic of arrays
 
@@ -68,22 +73,15 @@ for (let i = 0; i < numbers.length; i++) {
 numbers.forEach(function(number) {
   console.log(number);
 });
+
+// Output:
+// 10
+// 20
+// 30
+// 40
+// 50
+
 ```
-
-<details>
-  <summary>Output:</summary>
-  
- ```js
-  10
-  20
-  30
-  40
-  50
- ```
-
-</details>
-
-<br>
 
 <details>
   <summary>Practice Exercise</summary>
@@ -97,9 +95,9 @@ numbers.forEach(function(number) {
 
 [Go to top](#DSA-in-JavaScript)
 
-## 📌 Basic Operations on Arrays
+## Basic Operations on Arrays
 
-### 🔺 Searching in Arrays
+### Searching in Arrays
 
 Array me kisi element ko search karne ke kai tarike hain. Common methods:
 
@@ -119,7 +117,7 @@ let isPresent = fruits.includes("Mango");
 console.log(isPresent); // Output: true
 ```
 
-### 🔺 Sorting Arrays
+### Sorting Arrays
 
 Arrays ko sort karne ke liye JavaScript me `sort` method use hota hai. By default, ye elements ko string ke form me lexicographically sort karta hai.
 
@@ -139,7 +137,7 @@ numbers.sort(function(a, b) {
 console.log(numbers); // Output: [1, 5, 10, 25, 40, 100]
 ```
 
-### 🔺 Filtering Arrays
+### Filtering Arrays
 
 filter method ek naya array return karta hai jo sirf un elements ko include karta hai jo condition satisfy karte hain.
 
@@ -187,7 +185,7 @@ Is example me humne `filter` method use kiya hai to get a new array `adults` jo 
 3. Agar user.age > 18 condition true hoti hai to wo user new array adults me add ho jata hai.
 4. Final result me adults array sirf un users ko contain karta hai jinki age 18 se zyada hai.
 
-### 🔺 Mapping Arrays
+### Mapping Arrays
 
 `map` method ek naya array return karta hai jisme har element ko callback function ke through transform kiya jata hai.
 

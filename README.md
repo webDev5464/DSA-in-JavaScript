@@ -2,12 +2,11 @@
 
 ## 📌 Basic of arrays
 
-DSA Learning Roadmap Using JavaScript
+## DSA Learning Roadmap Using JavaScript
 
-****
 - Arrays
   
-  [Introduction to Arrays](#Introduction-to-Arrays)
+  - [Introduction to Arrays](#Introduction-to-Arrays)
 
         Array Operations (Adding, Removing, Accessing)
         Searching in Arrays (indexOf, includes)
@@ -195,6 +194,8 @@ numbers.forEach(function(number) {
   4. Array se ek element remove karo (start se).
 
 </details>
+
+[Go to top](DSA-Learning-Roadmap-Using-JavaScript)
 
 ## 📌 Basic Operations on Arrays
 

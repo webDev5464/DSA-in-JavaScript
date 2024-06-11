@@ -109,7 +109,7 @@ Progression
   - Learn different Sorting and Searching algorithms.
   - Finally, understand advanced algorithmic concepts like Dynamic Programming, Greedy Algorithms, and Backtracking.
 
-### Introduction to Arrays
+### 🔺 Introduction to Arrays
 
 Array ek linear data structure hai jisme elements sequentially stored hote hain.
 

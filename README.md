@@ -1,114 +1,12 @@
 # DSA in JavaScript
 
-## 📌 Basic of arrays
-
-## DSA Learning Roadmap Using JavaScript
-
-- Arrays
-  
+- [Basic of arrays](#Basic-of-arrays)
   - [Introduction to Arrays](#Introduction-to-Arrays)
+  - [Accessing Array Elements](#Accessing-Array-Elements)
 
-        Array Operations (Adding, Removing, Accessing)
-        Searching in Arrays (indexOf, includes)
-        Sorting Arrays
-        Filtering Arrays
-        Mapping Arrays
-        Two-Dimensional Arrays
+##  Basic of arrays
 
-    Strings
-        Basics of Strings
-        String Operations (Concatenation, Slicing, Substrings)
-        String Methods (length, indexOf, includes, split, join, etc.)
-        String Manipulation and Transformations
-
-    Linked Lists
-        Singly Linked List
-            Introduction and Basics
-            Insertion
-            Deletion
-            Traversal
-        Doubly Linked List
-            Introduction and Basics
-            Insertion
-            Deletion
-            Traversal
-
-    Stacks
-        Introduction to Stacks
-        Stack Operations (push, pop, peek, isEmpty)
-        Implementing Stack using Array
-        Use Cases of Stack (Balanced Parentheses, Undo/Redo functionality)
-
-    Queues
-        Introduction to Queues
-        Queue Operations (enqueue, dequeue, front, isEmpty)
-        Implementing Queue using Array
-        Circular Queue
-        Priority Queue
-
-    Trees
-        Introduction to Trees
-        Binary Tree
-            Basics and Properties
-            Tree Traversal (Inorder, Preorder, Postorder)
-        Binary Search Tree (BST)
-            Basics and Operations (Insertion, Deletion, Searching)
-        AVL Trees and Self-Balancing Trees
-
-    Heaps
-        Introduction to Heaps
-        Min Heap and Max Heap
-        Heap Operations (Insertion, Deletion)
-        Heap Sort
-
-    Graphs
-        Introduction to Graphs
-        Graph Representation (Adjacency Matrix, Adjacency List)
-        Graph Traversal (Breadth-First Search, Depth-First Search)
-        Shortest Path Algorithms (Dijkstra's, Bellman-Ford)
-        Minimum Spanning Tree (Kruskal's, Prim's)
-
-    Hashing
-        Introduction to Hashing
-        Hash Tables and Hash Functions
-        Collision Handling (Chaining, Open Addressing)
-        Use Cases of Hashing (Caching, Indexing)
-
-    Sorting Algorithms
-        Bubble Sort
-        Selection Sort
-        Insertion Sort
-        Merge Sort
-        Quick Sort
-        Heap Sort
-        Counting Sort
-
-    Searching Algorithms
-        Linear Search
-        Binary Search
-        Interpolation Search
-        Exponential Search
-
-    Advanced Topics
-        Dynamic Programming
-            Introduction and Concepts
-            Common DP Problems (Knapsack, Longest Common Subsequence, etc.)
-        Greedy Algorithms
-            Introduction and Concepts
-            Common Greedy Problems (Activity Selection, Huffman Coding, etc.)
-        Backtracking
-            Introduction and Concepts
-            Common Backtracking Problems (N-Queens, Sudoku Solver, etc.)
-
-Progression
-
-  - Start with basic data structures like Arrays, Strings, and Linked Lists.
-  - Move on to more complex structures like Stacks, Queues, and Trees.
-  - Dive into advanced data structures like Heaps, Graphs, and Hashing.
-  - Learn different Sorting and Searching algorithms.
-  - Finally, understand advanced algorithmic concepts like Dynamic Programming, Greedy Algorithms, and Backtracking.
-
-## Introduction to Arrays
+### Introduction to Arrays
 
 Array ek linear data structure hai jisme elements sequentially stored hote hain.
 
@@ -118,7 +16,7 @@ console.log(numbers);
 // Output: [10, 20, 30, 40, 50]
 ```
 
-### 🔺 Accessing Array Elements
+### Accessing Array Elements
 
 Array ke elements index se access kiye ja sakte hain.
 
@@ -195,7 +93,7 @@ numbers.forEach(function(number) {
 
 </details>
 
-[Go to top](#DSA-Learning-Roadmap-Using-JavaScript)
+[Go to top](#DSA-in-JavaScript)
 
 ## 📌 Basic Operations on Arrays
 

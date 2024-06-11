@@ -129,7 +129,7 @@ console.log(fruits[0]); // Output: Apple
 console.log(fruits[2]); // Output: Mango
 ```
 
-## Array Operations
+### Array Operations
 
   1. **Adding elements:**
      - Push: End me element add karna
